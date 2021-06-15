@@ -1,6 +1,0 @@
-00
-Caucasian
-AfricanAmerican
-Asian
-Other
-Hispanic
